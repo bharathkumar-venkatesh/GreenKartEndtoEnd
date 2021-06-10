@@ -1,0 +1,5 @@
+[32mINFO    [0m test_End_to_End:test_EndtoEnd.py:15 Homepage loaded
+[32mINFO    [0m test_End_to_End:test_EndtoEnd.py:17 Searching veggies ro
+[32mINFO    [0m test_End_to_End:test_EndtoEnd.py:31 Moving to checkout page
+[32mINFO    [0m test_End_to_End:test_EndtoEnd.py:37 entered promocode
+[32mINFO    [0m test_End_to_End:test_EndtoEnd.py:53 Country selected
